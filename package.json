@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/JashanKhela/psql_test#readme",
   "dependencies": {
+    "dotenv": "^6.0.0",
+    "knex": "^0.14.6",
     "pg": "^7.4.3"
   }
 }
